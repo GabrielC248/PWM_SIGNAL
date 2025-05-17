@@ -110,7 +110,7 @@ void gpio_irq_callback(uint gpio, uint32_t events) {
 
 int main()
 {
-    uint used_pin = 28;
+    uint used_pin = 16;
 
     stdio_init_all();
 
